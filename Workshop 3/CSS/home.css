@@ -1,0 +1,28 @@
+body{
+    margin: 0;/*division outside page margin*/
+    
+}
+h1{
+    font-family:'Rubik';
+    font-size:30 px;
+    font-weight: 20; /*bold */
+    color:rgb(127, 187, 255);
+/*Giving style to h1 tag*/
+}
+
+.paragraph1{
+  border-style: groove;
+  width: 50%;/*Either px or percentage*/
+  height: 50px;
+  padding: 20;/*division inside page*/
+
+}
+/*id as a selector use garana class lai . */
+
+#paragraph2{
+    border-style: ridge;
+    width: 100%;/*Either px or percentage*/
+    height: 50px;
+    padding: 20;/*division inside page*/
+  
+  }
